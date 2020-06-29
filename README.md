@@ -1,4 +1,6 @@
-# Transfer-Learning
+# Transfer-Learning  
+
+[![HitCount](http://hits.dwyl.com/rishang007/Transfer-Learning.svg)](http://hits.dwyl.com/rishang007/Transfer-Learning)
 
 ## Problem Statement
 In this project, we are classifying 15 different types of documents (images) using Convolutional Neural Network. 
